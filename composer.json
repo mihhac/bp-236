@@ -1,0 +1,11 @@
+{
+    "name": "julian/bp-236",
+    "type": "project",
+    "require": {
+        "brianium/paratest": "0.14.1",
+        "phpunit/phpunit": "<6.0.0"
+    },
+    "autoload-dev": {
+        "psr-4": { "Test\\": "tests" }
+    }
+}
