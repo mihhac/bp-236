@@ -6,6 +6,6 @@
         "phpunit/phpunit": "<6.0.0"
     },
     "autoload-dev": {
-        "psr-4": { "Test\\": "tests" }
+        "psr-4": { "Test\\": "tests/Test" }
     }
 }
